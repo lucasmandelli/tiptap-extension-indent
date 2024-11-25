@@ -35,7 +35,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lucasmandelli/tiptap-extension-indent.git",
+    "url": "git+https://github.com/lucasmandelli/tiptap-extension-indent.git",
     "directory": "packages/extension-indent"
   },
   "scripts": {
